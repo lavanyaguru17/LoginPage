@@ -31,13 +31,13 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/loginpage.git
+   git clone https://github.com/your-username/LoginPage.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd loginpage
+   cd LoginPage
    ```
 
 3. Build the project using Maven:
